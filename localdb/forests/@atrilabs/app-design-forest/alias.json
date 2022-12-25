@@ -1,3 +1,21 @@
 {
-  "BarChart": 1
+  "BarChart": 1,
+  "Flex": 127,
+  "TextBox": 154,
+  "Image": 78,
+  "Div": 13,
+  "Button": 8,
+  "UnorderedList": 3,
+  "Modal": 1,
+  "Carousel": 6,
+  "Cascader": 1,
+  "Testimonial": 4,
+  "Overlay": 1,
+  "Slider": 1,
+  "Accordion": 1,
+  "Breadcrumb": 1,
+  "Icon": 1,
+  "Step": 1,
+  "CandleStick": 1,
+  "Radio": 1
 }

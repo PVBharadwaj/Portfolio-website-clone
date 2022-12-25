@@ -1,0 +1,96 @@
+[
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "id": "50fbaf4b-dc63-451b-b085-a4fed55fe7dd",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {}
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "childId": "50fbaf4b-dc63-451b-b085-a4fed55fe7dd",
+    "refId": "7b7762d4-833d-46c1-984a-138497331cd3"
+  },
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "id": "d3d71cbe-b534-46ef-8847-b4f3c50334f9",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "custom": {
+          "data": [],
+          "cartesianGrid": {
+            "show": true,
+            "strokeDasharray": "3"
+          },
+          "xAxis": {
+            "show": true,
+            "key": "x"
+          },
+          "yAxis": {
+            "show": true
+          },
+          "toolTip": {
+            "show": true
+          },
+          "legend": {
+            "show": true
+          },
+          "chartHeight": 400,
+          "chartWidth": 400
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "childId": "d3d71cbe-b534-46ef-8847-b4f3c50334f9",
+    "refId": "7b7762d4-833d-46c1-984a-138497331cd3"
+  },
+  {
+    "id": "fa1c4c3d-8808-492a-9321-c5f39658a7ac",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {}
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "7b7762d4-833d-46c1-984a-138497331cd3",
+    "childId": "fa1c4c3d-8808-492a-9321-c5f39658a7ac"
+  },
+  {
+    "id": "7b7762d4-833d-46c1-984a-138497331cd3",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "BarChart",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "body",
+        "index": 1
+      },
+      "alias": "Bar1"
+    }
+  }
+]
